@@ -21,5 +21,5 @@ Welcome to the Snake Game in Java! This is a classic implementation of the popul
 First, clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/god1918/snake-game-java.git
-cd snake-game-java
+git clone https://github.com/god1918/snakegame.git
+cd snakegame
